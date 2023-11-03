@@ -1,0 +1,25 @@
+why node
+single threaded
+non blocking
+asynchronous programming
+memory efficient
+npm install express -g
+
+npm-node package manager, install package locally or globally
+nvm- node version manager, used to install node js or upgrade noddejs version
+
+
+.local install
+npm install<package name>
+npm install<package name>--save
+
+node modules
+.core, local, third-party modules
+
+express: npm init 
+
+npm run devStart: auto run
+
+
+npm install -g express-generator
+express bookApp --view ejs
